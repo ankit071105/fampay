@@ -61,3 +61,4 @@ fampa/
    cd fampay
   
   ```
+flutter run
